@@ -1,4 +1,4 @@
-# E-Commerce Dashboard Application
+# Value Crop
 
 A comprehensive React-based frontend application for managing e-commerce inventory, products, and user dashboards. Built for speed and productivity.
 
